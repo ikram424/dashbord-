@@ -10,4 +10,5 @@ streamlit
 plotly
 pandas
 numpy
+gunicorn
 
